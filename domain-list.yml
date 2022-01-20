@@ -458,6 +458,9 @@
 - domain: 'sqlite.in'
   evidence: https://sqlite.in/?qa=159286/
   original: https://stackoverflow.com/questions/5164930
+- domain: 'www.examplefiles.net'
+  evidence: https://www.examplefiles.net/cs/79429
+  original: https://stackoverflow.com/questions/19117092
 - domain: 'stackguides.com'
   evidence: https://stackguides.com/questions/55582335
   original: https://stackoverflow.com/questions/55582335
